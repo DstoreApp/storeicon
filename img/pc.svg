@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;stroke:#000000;stroke-width:0.75;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#000000;stroke-width:0.75;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<g>
+			<path class="st0" d="M79.7,122.5c-3.5,0-6.4-2.9-6.4-6.4V44.9c0-3.5,2.9-6.4,6.4-6.4h99.4c3.5,0,6.4,2.9,6.4,6.4v71.2
+				c0,3.5-2.9,6.4-6.4,6.4H79.7z"/>
+			<path d="M179.1,39c3.2,0,5.9,2.6,5.9,5.9v71.2c0,3.2-2.6,5.9-5.9,5.9H79.7c-3.2,0-5.9-2.6-5.9-5.9V44.9c0-3.2,2.6-5.9,5.9-5.9
+				H179.1 M179.1,38H79.7c-3.8,0-6.9,3.1-6.9,6.9v71.2c0,3.8,3.1,6.9,6.9,6.9h99.4c3.8,0,6.9-3.1,6.9-6.9V44.9
+				C186,41.1,182.9,38,179.1,38L179.1,38z"/>
+		</g>
+		<g>
+			<path class="st0" d="M81,109.8c-2.8,0-5.1-2.3-5.1-5.1V46.6c0-2.8,2.3-5.1,5.1-5.1h96.9c2.8,0,5.1,2.3,5.1,5.1v58.1
+				c0,2.8-2.3,5.1-5.1,5.1H81z"/>
+			<path d="M177.9,42c2.5,0,4.6,2.1,4.6,4.6v58.1c0,2.5-2.1,4.6-4.6,4.6H81c-2.5,0-4.6-2.1-4.6-4.6V46.6c0-2.5,2.1-4.6,4.6-4.6
+				H177.9 M177.9,41H81c-3.1,0-5.6,2.5-5.6,5.6v58.1c0,3.1,2.5,5.6,5.6,5.6h96.9c3.1,0,5.6-2.5,5.6-5.6V46.6
+				C183.5,43.6,180.9,41,177.9,41L177.9,41z"/>
+		</g>
+		<g>
+			<ellipse cx="129.4" cy="115.9" rx="1.7" ry="2"/>
+		</g>
+		<polygon class="st1" points="144.7,144.3 114.3,144.3 122.3,122.5 136.6,122.5 		"/>
+		<path class="st1" d="M106.2,147.8h45.6c0.5,0,0.9-0.4,0.9-0.9v-1.3c0-0.5-0.4-0.9-0.9-0.9h-45.6c-0.5,0-0.9,0.4-0.9,0.9v1.3
+			C105.3,147.4,105.7,147.8,106.2,147.8z"/>
+	</g>
+	<g>
+		<rect x="20.4" y="48.3" class="st2" width="44" height="100"/>
+		<rect x="24.6" y="58.2" class="st3" width="35.5" height="14.3"/>
+		<line class="st4" x1="19.5" y1="86.7" x2="55.1" y2="86.7"/>
+		<ellipse class="st4" cx="43.2" cy="103.7" rx="5.1" ry="6.2"/>
+		<line class="st4" x1="63.5" y1="118.9" x2="21.2" y2="118.9"/>
+		<line class="st4" x1="65.2" y1="122.4" x2="19.5" y2="122.4"/>
+		<line class="st4" x1="63.5" y1="138.5" x2="19.5" y2="138.5"/>
+	</g>
+	<g>
+		<line class="st5" x1="17.8" y1="158.1" x2="134.6" y2="158.1"/>
+		<line class="st5" x1="41.5" y1="163.5" x2="9.4" y2="163.5"/>
+		<line class="st5" x1="73.7" y1="163.5" x2="161.7" y2="163.5"/>
+		<line class="st5" x1="170.1" y1="163.5" x2="183.7" y2="163.5"/>
+	</g>
+</g>
+<g>
+	<polygon class="st6" points="141.7,63.6 141.7,77 127.5,77 127.5,65.9 	"/>
+	<polygon class="st6" points="141.7,78.1 141.7,91.4 127.5,88.7 127.5,78.1 	"/>
+	<polygon class="st6" points="126.4,88.7 126.4,78.1 116.7,78.1 116.2,78.1 116.2,87 	"/>
+	<polygon class="st6" points="126.4,77 126.4,66.1 116.2,67.8 116.2,77 	"/>
+</g>
+</svg>
